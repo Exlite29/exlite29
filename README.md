@@ -1,5 +1,5 @@
 Ariel Agdon / README.md
-👋 Hi there, welcome to my GitHub Profile!
+👋 Hi there, welcome to my GitHub Profile! \n
 ☕ I'm Ariel || Tolits || Exlite
 👀 I am a Junior Front End Developer, currently working on enhancing my skills.
 💡 I'm currently focused on learning: JavaScript NextJS ReactJs TypeScript MongoDB 
