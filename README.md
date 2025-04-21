@@ -1,12 +1,12 @@
 Ariel Agdon / README.md
 
-  -👋 Hi there, welcome to my GitHub Profile! 
-  -☕ I'm Ariel || Tolits || Exlite
-  -👀 I am a Junior Front End Developer, currently working on enhancing my skills.
-  -💡 I'm currently focused on learning: JavaScript NextJS ReactJs TypeScript MongoDB.
-  -🔥 My goal is to become a Full Stack Web Developer.
-  -🚩 I'm dedicate my life to continuously improving my skills and keeping up with new technologies.
-  -⚙️ Technologies and Tools I'm Familiar With/Studied:
+  -  👋 Hi there, welcome to my GitHub Profile! 
+  -  ☕ I'm Ariel || Tolits || Exlite
+  -  👀 I am a Junior Front End Developer, currently working on enhancing my skills.
+  -  💡 I'm currently focused on learning: JavaScript NextJS ReactJs TypeScript MongoDB.
+  -  🔥 My goal is to become a Full Stack Web Developer.
+  -  🚩 I'm dedicate my life to continuously improving my skills and keeping up with new technologies.
+  -  ⚙️ Technologies and Tools I'm Familiar With/Studied:
 
 ### 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
