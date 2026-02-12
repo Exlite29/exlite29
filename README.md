@@ -1,17 +1,11 @@
 Ariel Agdon / README.md
 
 -👋 Hi there, welcome to my GitHub Profile!
-
 -☕ I'm Ariel || Tolits || Exlite
-
 -👀 I am a Junior Front End Developer, currently working on enhancing my skills.
-
 -💡 I'm currently focused on learning: JavaScript NextJS ReactJS TypeScript MongoDB PostgreSQL Docker Prisma Supabase Redis Socket.io Vercel AI SDK
-
 -🔥 My goal is to become a Full Stack Web Developer.
-
 -🚩 I'm dedicated to continuously improving my skills and keeping up with new technologies.
-
 -⚙️ Technologies and Tools I'm Familiar With/Studied:
 
 ###🧰 Tech Stack
